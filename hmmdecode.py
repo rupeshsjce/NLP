@@ -2,7 +2,7 @@ from math import log10, inf
 import sys
 import json
 
-
+#
 class Decoder():
     def __init__(self, model_file):  # STEP 1
         self.trans_emis, self.emis_inv = self.load_model(model_file)
