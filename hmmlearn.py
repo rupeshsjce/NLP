@@ -1,7 +1,7 @@
 import json
 import sys
 
-
+#
 def construct_model(train_doc):
     '''Build up the transition and emission matrix from the tagged training corpus.
     train_doc - a filepath to the training corpus.'''
