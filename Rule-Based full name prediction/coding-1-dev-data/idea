@@ -1,0 +1,7 @@
+a b[o] c[o] d[o]  AND w x y[o] z[o]   => 'a '
+                                       and then check the last word before "AND" [dcb] and check if it first name or lastname/surname.
+
+                                       if it is last name then that's it. ['a b-c-d']
+                                       else check after "AND", w x y[o] z[o] and see whether they are forenames or surnames. 
+                                       Surnames will used for the first guy.
+
