@@ -25,7 +25,7 @@ def construct_model(train_doc):
         # print(line)
         # print("*"*60)
 
-        for idx, pair in enumerate(line):
+        for idx, pair in enumerate(line): #
             # print(idx, pair)
             # get the next pair
             if idx < len(line)-1:
